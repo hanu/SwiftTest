@@ -1,0 +1,22 @@
+{
+  "name": "SwiftTest",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hanu/SwiftTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hanu": "nagendlav@hra.nyc.gov"
+  },
+  "source": {
+    "git": "https://github.com/hanu/SwiftTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SwiftTest/Classes/**/*"
+}

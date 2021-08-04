@@ -1,0 +1,16 @@
+PODS:
+  - SwiftTest (0.1.0)
+
+DEPENDENCIES:
+  - SwiftTest (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftTest: fad1102770e0edf7a3af8ac67d70e30134cc26c7
+
+PODFILE CHECKSUM: 7ce52a847ef3f4c9881e3e2448508b8d892a3ff9
+
+COCOAPODS: 1.10.1
